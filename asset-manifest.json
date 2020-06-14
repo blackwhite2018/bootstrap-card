@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bootstrap-card/static/css/main.0976046a.chunk.css",
+    "main.js": "/bootstrap-card/static/js/main.1bccfe1a.chunk.js",
+    "main.js.map": "/bootstrap-card/static/js/main.1bccfe1a.chunk.js.map",
+    "runtime-main.js": "/bootstrap-card/static/js/runtime-main.93542d3c.js",
+    "runtime-main.js.map": "/bootstrap-card/static/js/runtime-main.93542d3c.js.map",
+    "static/js/2.d9b275c3.chunk.js": "/bootstrap-card/static/js/2.d9b275c3.chunk.js",
+    "static/js/2.d9b275c3.chunk.js.map": "/bootstrap-card/static/js/2.d9b275c3.chunk.js.map",
+    "index.html": "/bootstrap-card/index.html",
+    "precache-manifest.9320d4709654b8a22b227196475c79c1.js": "/bootstrap-card/precache-manifest.9320d4709654b8a22b227196475c79c1.js",
+    "service-worker.js": "/bootstrap-card/service-worker.js",
+    "static/css/main.0976046a.chunk.css.map": "/bootstrap-card/static/css/main.0976046a.chunk.css.map",
+    "static/js/2.d9b275c3.chunk.js.LICENSE.txt": "/bootstrap-card/static/js/2.d9b275c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93542d3c.js",
+    "static/js/2.d9b275c3.chunk.js",
+    "static/css/main.0976046a.chunk.css",
+    "static/js/main.1bccfe1a.chunk.js"
+  ]
+}
